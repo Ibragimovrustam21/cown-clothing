@@ -3,8 +3,8 @@ import { Outlet } from 'react-router-dom';
 
 import { CartContext } from '../../context/CartContext';
 import { UserContext } from '../../context/UserContext';
-import CartDropdown from '../../components/cartDropdown/CartDropdown'
-import CartIcon from '../../components/cartIcon/CartIcon';
+import CartDropdown from '../../components/cart-dropdown/CartDropdown'
+import CartIcon from '../../components/cart-icon/CartIcon';
 
 import { signOutUser } from '../../utils/firebase/firebase.component';
 
