@@ -1,5 +1,6 @@
 import { Link } from "react-router-dom";
 import styled from "styled-components";
+
 export const NavigationStyles = styled.div`
   height: 70px;
   width: 100%;
